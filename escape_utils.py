@@ -22,3 +22,12 @@ def reveal_key_4():
 
 def reveal_key_5():
     print("✅ Puzzle 5 Solved! Key: 555")
+
+def reveal_key_6():
+    print("✅ Puzzle 6 Solved! Key: 9")
+
+def reveal_key_7():
+    print("✅ Puzzle 7 Solved! Key: 1440")
+
+def reveal_key_8():
+    print("✅ Puzzle 8 Solved! Key: 20002")
